@@ -1,0 +1,18 @@
+table{font-size: 15px; width: 55%;}
+th{border:solid red 2pt}
+td{border:solid green 2pt}
+#siguiente{background-color:grey; width:55%; height:50px;  margin-top: 2%;}
+#siguiente a{font-size: 30px; font-family: arial black;}
+#barra_de_nav li{display: inline; 
+	font-family: Arial; 
+	font-size:15px;
+	float:left; padding: 10px;
+	background-color: #2175bc;
+	color: #fff;}
+#titulo_2 {font-family: arial black;
+	background-color: #BEF781;
+	color: green;
+	width: 100%;}
+#siguiente_2 h2{background-color:#A9A9F5; width: 70%;}
+#costado{width: 25%;}
+#pie{margin-top: 100%;}
